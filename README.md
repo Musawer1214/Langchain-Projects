@@ -67,7 +67,7 @@ To run these projects locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/sentiment-translator-mini-projects.git
+   git clone https://github.com/Musawer1214/sentiment-translator-mini-projects.git
    cd sentiment-translator-mini-projects
    ```
 
